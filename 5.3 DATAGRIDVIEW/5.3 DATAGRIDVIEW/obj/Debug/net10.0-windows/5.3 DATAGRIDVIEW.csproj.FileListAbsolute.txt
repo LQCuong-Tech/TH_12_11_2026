@@ -1,0 +1,17 @@
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\bin\Debug\net10.0-windows\5.3 DATAGRIDVIEW.exe
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\bin\Debug\net10.0-windows\5.3 DATAGRIDVIEW.deps.json
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\bin\Debug\net10.0-windows\5.3 DATAGRIDVIEW.runtimeconfig.json
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\bin\Debug\net10.0-windows\5.3 DATAGRIDVIEW.dll
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\bin\Debug\net10.0-windows\5.3 DATAGRIDVIEW.pdb
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\_5._3_DATAGRIDVIEW.Product.resources
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.csproj.GenerateResource.cache
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.AssemblyInfoInputs.cache
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.AssemblyInfo.cs
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.csproj.CoreCompileInputs.cache
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.dll
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\refint\5.3 DATAGRIDVIEW.dll
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.pdb
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATAGRIDVIEW.genruntimeconfig.cache
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\ref\5.3 DATAGRIDVIEW.dll
+D:\LT .Net\5.3 DATAGRIDVIEW\5.3 DATAGRIDVIEW\obj\Debug\net10.0-windows\5.3 DATA.B288956B.Up2Date
