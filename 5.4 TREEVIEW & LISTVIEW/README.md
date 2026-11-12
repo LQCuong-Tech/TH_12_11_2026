@@ -1,0 +1,17 @@
+# BÁO CÁO BÀI TẬP
+
+## THÔNG TIN SINH VIÊN
+- **Họ và tên:** Lương Quốc Cường
+- **Mã số sinh viên:** 24810310195
+- **Lớp:** D19CNPM3
+- **Tên môn học:** Lập trình C# / Windows Forms
+- **Tên bài tập:** BÀI 5.4: TRÌNH QUẢN LÝ TẬP TIN DẠNG CHUYÊN NGHIỆP
+
+---
+
+## KẾT QUẢ THỰC HÀNH
+
+### 1. Ảnh màn hình Chức năng thực thi / Kết quả
+![Thực thi chức năng](./screenshots/Result1.png)
+![Thực thi chức năng](./screenshots/Result2.png)
+![Thực thi chức năng](./screenshots/Result3.png)
